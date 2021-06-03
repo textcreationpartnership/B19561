@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for banishing all popish priests and Jesuites, and putting the laws in speedy and due execution against popish recusants.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19561</idno><idno type="EEBO-CITATION">99884058_192513</idno>
+  <idno type="VID">192513</idno>
+  <idno type="EEBO-PROQUEST">2248520168</idno>
+  
+            <idno type="STC">Wing C3317</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.2[34]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.1[39c]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.c.8[206]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.c.8[207]</idno>
+            <idno type="STC">ESTC R213147</idno>
+            <idno type="PROQUEST">ocm99884058</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99884058e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19561)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192513)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C9:1[34]; C9:3[178]; C18:1[205]; C18:1[206])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for banishing all popish priests and Jesuites, and putting the laws in speedy and due execution against popish recusants.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill and Christopher Barker, His Majesties printers,</publisher>
+                  <pubPlace>In the Savoy, [i.e. London] :</pubPlace>
+                  <date>1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end of text: Given at the court at Whitehall the tenth day of November, in the eighteenth year of our reign, 1666.</note>
+                  <note>Steele notation: Arms 73  this Royal 2) of the.</note>
+                  <note>Two copies are filmed consecutively at reel C18:1[205]-[206].</note>
+                  <note>Filmed copies at reel C18:1[205]-[206] consist of single sheet.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Jesuits --  England --  Early works to 1800.</term>
+               <term type="topical_term">Catholics --  Legal status, laws, etc. --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:192513:1"/>
+            <head>
+               <figure>
+                  <figDesc>arms of Charles II</figDesc>
+                  <head>C R</head>
+                  <q>HONI SO<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>T QVI MAL Y PENS<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure> By the King. A PROCLAMATION For Banishing all Popish Priests and Jesuites, and putting the Laws in speedy and due Execution against POPISH RECUSANTS.</head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas Our Loyal Subjects the Lords Spiritual and Temporal, and Commons in this present Parliament Assembled, in order to the Suppressing the Insolencies of the Papists, have humbly desired Vs forthwith to Issue out Our Royal Proclamation for the Banishment of all Priests and Iesuites out of this Kingdom within Thirty days, to be therein limited, other then such (not being Our natural born Subjects) who are obliged to attend upon Our Royal Consort the Queén, or the Queén Our Dear Mother. And that if any Priest or Iesuite shall happen to be taken in <hi>England</hi> after the said days, That the Laws be put in due execution against them; And have further humbly desired Vs, That in the said Proclamation, strict Order be given to the Iudges, and Barons of the Exchequer, and to all Our Iustices of Peace, and to all other Ministers of Iu<g ref="char:EOLhyphen"/>stice, for the putting the Laws in due execution against all Popish Recusants, and such as are suspected so to be, in order to their speédy Conviction; and that the said Iudges, Barons and Iustices, be required at their respective Assizes, and Quarter-Sessions, to give the Laws in Charge against Popish Recusants.</p>
+            <p>And We having seriously considered thereof, and accepting with much contentment the great care of Our said Loyal Subjects, the Lords Spiritual and Temporal, and Commons in Parliament Assembled, for the preservation of the true Religion Established in this Kingdom; Do therefore by this Our Proclamation Re<g ref="char:EOLhyphen"/>quire, Charge and Command all Iesuites, and also all Priests who have taken Orders from the Sea of <hi>Rome,</hi> or by the Authority, or pretended Authority thereof, and are not since, and so continue, reconciled to the Church of <hi>England;</hi> That they and every of them do before the Tenth day of <hi>December</hi> next ensuing, De<g ref="char:EOLhyphen"/>part out of this Our Kingdom of <hi>England,</hi> and Dominion of <hi>Wales,</hi> upon pain of having the Penalties of the Laws and Statutes of this Our Realm inflicted upon them. And for their better means to depart accord<g ref="char:EOLhyphen"/>ingly, We do hereby Declare and Publish Our further Pleasure, That if at any time before the said Tenth day of <hi>December</hi> next, they or any of them, shall resort to any Port-Town of Our said Kingdom of <hi>England,</hi> or Dominion of <hi>Wales,</hi> and there declare him or themselves to the Magistrate of the Town, or other Officers of any Port, to be Priests or Iesuites, and that he or they are there to take Shipping for his or their passage, such Magistrate and Officers shall suffer him or them quietly to depart, and shall seé them Ship<g ref="char:EOLhyphen"/>ped and sent away for Foreign parts, and give them their furtherance for their departure. And to the end that this Our Proclamation may be the better observed and obeyed, We do hereby strictly Charge and Com<g ref="char:EOLhyphen"/>mand all Our Lieutenants, Deputy-Lieutenants, Commissioners, Iustices of the Peace, Mayors, She<g ref="char:EOLhyphen"/>riffs, Bayliffs, and all other Our Officers whatsoevever, That they be circumspect and vigilant, each of them in their several Charges, from and after the said Tenth day of <hi>December,</hi> in Searching for, Discover<g ref="char:EOLhyphen"/>ing, and Apprehending all such Iesuites and Priests (as aforesaid) as shall presume to remain within this Our Realm of <hi>England,</hi> or Dominion of <hi>Wales,</hi> contrary to Our Laws, and Our Royal Pleasure and Com<g ref="char:EOLhyphen"/>mand herein Declared, to the end that the Laws may be put in due execution against them.</p>
+            <p>Provided always, and Our intention is (which We do hereby Declare) That this Our Proclamation shall not extend to Priests (not being Our natural born Subjects) that do or shall from time to time attend upon the Persons of Our dearest Consort the Queén, or of the Queén Our dear Mother, according to the Treaties of their several Marriages, (the names of which Priests shall be set down and signified by them un<g ref="char:EOLhyphen"/>der their Great Seals respectively, and such Signification Enrolled in Our Court of <hi>Kings Bench.</hi>)</p>
+            <p>And We do also further Require, Charge and Command, That all Our Iudges, Barons of our Exche<g ref="char:EOLhyphen"/>quer, Iustices of Peace, and Ministers of Iustice in their several places, do not onely observe Our Will and Pleasure herein before expressed, in all and every the Premisses; but also do forthwith put all other Our Laws in due execution against all Popish Recusants, and such as are suspected so to be, in order to their speédy Conviction. And We do further Will and Command, That all Our said Iudges, Barons of Our Exchequer, Iustices of the Peace, and Ministers of Iustice to whom the same shall appertain, at and in thier respective Courts, Assizes, Goal-Deliveries, and Quarter-Sessions, do publickly give the Laws in Charge against Popish Recusants, and take order that they be speédily Presented, Indicted, and Convicted according to Law. And that all Our Iudges of Assize, at their returns out of their respective Circuits, do from time to time hereafter, give a true and strict account of their proceédings therein, unto Our Chancellour for the time being: And that he do present the same to Vs.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at the Court at Whitehall</hi>
+                  <date>
+                     <hi>the Tenth day of November, in the Eighteenth year of Our Reign, 1666.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>In the <hi>SAVOY,</hi> Printed by the Assigns of <hi>John Bill</hi> and <hi>Christopher Barker,</hi> His Majesties Printers, 1666.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
